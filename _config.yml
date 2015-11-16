@@ -1,0 +1,13 @@
+# Site settings
+title: Frank的世外桃源
+email: wanghaogre@163.com
+description: "个人博客，记录技术成长的点点滴滴。 "
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://frankhow.com" # the base hostname & protocol for your site
+github_username:  Frankhoward
+disqus: Frank
+paginate: 10
+paginate_path: "blog/page:num/"
+# Build settings
+markdown: kramdown
+permalink: /:year-:month-:day/:title.html
