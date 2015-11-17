@@ -39,4 +39,4 @@ categories: [随笔]
 
 [《我想，我想》-洪启](http://music.163.com/#/song?id=28138269)
 
-（/images/book.jpg)
+![My helpful screenshot](/images/book.jpg)
