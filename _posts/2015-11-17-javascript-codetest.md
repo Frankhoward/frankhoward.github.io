@@ -1,4 +1,10 @@
-code test
+---
+layout: post
+title:  "Code test"
+date:   2015-11-16 
+categories: [测试]
+---
+
 
     <!DOCTYPE html>
     <html>
