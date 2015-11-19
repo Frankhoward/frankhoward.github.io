@@ -16,4 +16,4 @@ categories: [随笔]
 
 [《盲点》](http://music.163.com/#/song?id=36199531)
 
-![My helpful screenshot](/images/cat.jpg)
+![My helpful screenshot](/images/cat.JPG)
