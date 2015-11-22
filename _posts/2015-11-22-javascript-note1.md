@@ -51,10 +51,10 @@ window.open()
 
 1. 弹出窗口
 1. 安全限值
-1. 弹出窗口屏蔽程序
+1. 弹出窗口屏蔽序
 
+###
     var blocked=false;
-    
     try {
     	var wroxWin=window.open("http://www.wrox.com","_blank");
     	if (wroxWin==null) {
@@ -66,6 +66,7 @@ window.open()
     if (blocked) {
     	alert("The popup was blocked");
     };
+    
 
 ###8.1.6超时调用
 
@@ -145,8 +146,10 @@ hasQuickTime()
 ###8.3.2 注册处理程序
 
 - registerContentHandler()
-
-    navigator.registerContentHandler("application/rss+xml","http://www.somereader.com?feed=%s","Some Reader");
+###
+    
+    navigator.registerContentHandler("application/rss+xml",
+       "http://www.somereader.com?feed=%s","Some Reader");
     
 1. RSS源的MIME类型
 1. 应该接收RSS源URL的URL
