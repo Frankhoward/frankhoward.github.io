@@ -116,5 +116,7 @@ navigator.registerContentHandler("application/rss+xml","http://www.somereader.co
 2.应该接收RSS源URL的URL</br>
 3.应用程序的名称
 - registerProtocolHandler()
+
 ##8.4 screen对象
+
 ##8.5 history对象
