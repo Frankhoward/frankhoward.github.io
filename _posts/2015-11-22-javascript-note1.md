@@ -145,7 +145,9 @@ hasQuickTime()
 ###8.3.2 注册处理程序
 
 - registerContentHandler()
-navigator.registerContentHandler("application/rss+xml","http://www.somereader.com?feed=%s","Some Reader");
+
+    navigator.registerContentHandler("application/rss+xml","http://www.somereader.com?feed=%s","Some Reader");
+    
 1. RSS源的MIME类型
 1. 应该接收RSS源URL的URL
 1. 应用程序的名称
