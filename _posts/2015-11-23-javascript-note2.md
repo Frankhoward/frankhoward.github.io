@@ -13,6 +13,7 @@ categories: [笔记]
 1. 一个特性存在，不一定意味着另一个特性也存在
 
 ###9.1.1 更可靠的能力检测
+
     //在IE8及之前版本中不行
     function hasCreateElement() {
     return typeof document.createElement=="function";
@@ -20,7 +21,9 @@ categories: [笔记]
 
     result=isHostMethod(xhr,"open");//ture
     result=isHostMethod(xhr,"foo"); //false
+
 ###9.1.2 能力检测，不是浏览器检测
+
 最好一次行检测所有相关特性，而不要分开检测
 
     //确定浏览器是否支持Netscape风格的插件
