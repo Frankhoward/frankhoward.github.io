@@ -53,7 +53,7 @@ window.open()
 1. 安全限值
 1. 弹出窗口屏蔽序
 
-###
+##
     var blocked=false;
     try {
     	var wroxWin=window.open("http://www.wrox.com","_blank");
@@ -146,7 +146,7 @@ hasQuickTime()
 ###8.3.2 注册处理程序
 
 - registerContentHandler()
-###
+##
     
     navigator.registerContentHandler("application/rss+xml",
        "http://www.somereader.com?feed=%s","Some Reader");
