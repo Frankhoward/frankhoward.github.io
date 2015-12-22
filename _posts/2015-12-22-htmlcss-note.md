@@ -5,7 +5,7 @@ date:   2015-12-22
 categories: [笔记]
 ---
 
-## HTML作业##
+###HTML作业###
 
 好久没更新了，主要是这段时间实在是忙，把课程又从头开始过一遍，把作业重新吃了一遍，确实收获不少，废话不多说，上代码。
 
@@ -165,7 +165,7 @@ categories: [笔记]
     </body>
     </html>
 
-##CSS随堂测验##
+###CSS随堂测验###
 
 ![My helpful screenshot](/images/4.png)
 
@@ -307,7 +307,7 @@ categories: [笔记]
     </body>
     </html>
 
-##CSS作业##
+###CSS作业###
 
 ![My helpful screenshot](/images/6.png)
     
